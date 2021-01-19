@@ -1,0 +1,3 @@
+﻿  Chapter1.cpp
+E:\data_stats\OpenCv course\Project1\Project1\Chapter1.cpp(22,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project1.vcxproj -> E:\data_stats\OpenCv course\Project1\x64\Debug\Project1.exe
