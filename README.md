@@ -13,5 +13,5 @@
 5. Perspective Warp Images
 6. Color Detection [used Trackbars]
 7. Shape/Contour Detection
-8. Face Detection
+8. Split and merge
  
